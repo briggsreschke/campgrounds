@@ -6,7 +6,7 @@ Code        | Ammenities | Remarks
 ------------|------------|-------
 **NH** | No Hookups
 **E, WE, WES** |  Water/Electric/Sewer
-
+------------|------------|-------
 **DP** | Sanitary Dump
 **ND** | No Dump
 
