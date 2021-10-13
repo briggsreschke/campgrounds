@@ -1,8 +1,8 @@
 
-**Ammenities Key**
+**Amenities Key**
 ====================================================
 
-Code        | Ammenities | Remarks
+Code        | Amenities | Comments
 ------------|------------|-------
 **NH** | No Hookups
 **E, WE, WES** |  Water/Electric/Sewer
