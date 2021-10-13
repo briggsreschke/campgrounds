@@ -2,9 +2,10 @@
 **Ammenities Key**
 ====================================================
 
-
-**NH** -> No Hookups
-**E, WE, WES** -> Water/Electric/Sewer
+Code        | Ammenities
+------------|------------
+**NH** | No Hookups
+**E, WE, WES** |  Water/Electric/Sewer
 
 
 **DP** -> Sanitary Dump
