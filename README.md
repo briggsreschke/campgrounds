@@ -1,5 +1,6 @@
 
-Interactive [Cluster Map](https://janes-books.com/camping/campgrounds.html) of campgrounds on public lands in the United States
+Interactive [Cluster Map](https://janes-books.com/camping/campgrounds.html) of campgrounds on public lands in the United States</br>
+Data made available by Tom Hillegass @ ![](http://www.uscampgrounds.info/)
 
 
 **Amenities Key**
