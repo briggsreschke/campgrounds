@@ -1,10 +1,7 @@
 
-[Cluster Map of Campgrounds in the United States](https://janes-books.com/camping/campgrounds.html)
+[Cluster Map of Public Lands Camping in the United States](https://janes-books.com/camping/campgrounds.html)
 
 
-**NP**=National Park</br> 
-**NF**=National Forest 
-**SP**=State Park 
 
 **Amenities Key**
 ====================================================
