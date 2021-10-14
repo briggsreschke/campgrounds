@@ -4,6 +4,7 @@ Data made available by Tom Hillegass @ [www.uscampgrounds.info](http://www.uscam
 
 
 <img src='images/splash_full.png' width="300" height="187">
+<img src='images/splash_marker.png' width="300" height="187">
 
 
 **Amenities Key**
