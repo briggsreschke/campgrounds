@@ -4,9 +4,9 @@
 
 **Amenities Key**
 ====================================================
-**NP**=National Park
-**NF**=National Forest
-**SP**=State Park
+**NP**=National Park 
+**NF**=National Forest 
+**SP**=State Park 
 
 **Amenities Key**
 ====================================================
