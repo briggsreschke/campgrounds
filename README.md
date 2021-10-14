@@ -18,7 +18,7 @@ Code        | Amenities | Comments
 **PT** | Pit
 **NT** | No Toilets
 **DW** | Drinking Water at Campground
-**NW** | No Drinking Water(bring your own)
+**NW** | No Drinking Water
 **SH** | Showers
 **NS** | No Showers
 **RS** | Accepts Reservations
