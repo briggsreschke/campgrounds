@@ -3,7 +3,7 @@
 Data made available by Tom Hillegass @ [www.uscampgrounds.info](http://www.uscampgrounds.info/)
 
 
-<img src='images/splash_full.png' width="300" height="187"> <img src='images/splash_markers.png' width="300" height="187"> <img src='images/splash_popup.png' width="300" height="187">
+<img src='images/splash_full.png' width="350" height="219"> <img src='images/splash_markers.png' width="350" height="219"> <img src='images/splash_popup.png' width="350" height="219">
 
 
 **Amenities Key**
