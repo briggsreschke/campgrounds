@@ -26,6 +26,6 @@ Code        | Amenities | Comments
 **Blank** | Unknown 
 **PA** | Pets Allowed
 **NP** | No Pets
-**L$** | free or under $12
+**L$** | Free or Under $12
 
 
