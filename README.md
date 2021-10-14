@@ -3,7 +3,7 @@ Interactive [Cluster Map](https://janes-books.com/camping/campgrounds.html) of c
 Data made available by Tom Hillegass @ [www.uscampgrounds.info](http://www.uscampgrounds.info/)
 
 
-<img src='images/splash_full.png' width="500" height="311">
+<img src='images/splash_full.png' width="300" height="187">
 
 
 **Amenities Key**
