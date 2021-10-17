@@ -119,9 +119,9 @@ def search_rows(data, match_dict, header):
 def merge_files(file_list, ofile, header):
 
 	try:
-                os.path.isfile(ofile):
-		sys.stderr.write('Ouput file already exists\n')
-		sys.exit(6)
+		if not os.path.isfile(ofile):
+			sys.stderr.write('Ouput file already exists\n')
+			sys.exit(6)
         except:
                 pass
 
