@@ -18,8 +18,8 @@ Code        | Amenities | Comments
 **MAX RV LENGTH** | 32FT=32FT | (may not be very accurate)
 **FT** | Flush Toilet
 **VT** | Vault Toilet
-**FTVT** | Flush Toilet + Valut Toilet
-**PT** | Pit
+**FTVT** | Flush Toilet + Vault Toilet
+**PT** | Pit Toilet
 **NT** | No Toilets
 **DW** | Drinking Water at Campground
 **NW** | No Drinking Water
