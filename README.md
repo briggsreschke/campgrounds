@@ -1,9 +1,5 @@
 
 [Interactive Cluster Map](https://janes-books.com/camping/campgrounds.html) of campgrounds on public lands in the United States</br>
-Data made available by Tom Hillegass @ [www.uscampgrounds.info](http://www.uscampgrounds.info/)
-
-Javascript with MapBox [www.mapbox.com](http://www.mabox.com)
-
 
 <img src='images/splash_full.png' width="350" height="219"> <img src='images/splash_markers.png' width="350" height="219"> <img src='images/splash_popup.png' width="350" height="219">
 
